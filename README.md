@@ -1,4 +1,4 @@
-## Olá, meu nome é Vanderson Aparecido! 😏✌
+## Olá, meu nome é Vanderson Aparecido!😎✌
 
 - 🌱 Atualmente estou aprendendo Javascript, PHP e Kotlin
 - 📫 Meu E-mail: vandersonaparecido15@gmail.com
